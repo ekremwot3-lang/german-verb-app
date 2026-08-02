@@ -13,42 +13,15 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
+    - name: Build with Buildozer
+      uses: ArtemSBulgakov/buildozer-action@v1
+      id: buildozer
       with:
-        python-version: '3.10'
-
-    - name: Install Java & System Dependencies
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y \
-          build-essential ccache git python3-pip libffi-dev libssl-dev \
-          openjdk-17-jdk zip unzip tar autoconf libtool pkg-config \
-          zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake
-
-    - name: Setup Android SDK manually
-      run: |
-        mkdir -p $HOME/.buildozer/android/platform/android-sdk/cmdline-tools/latest
-        wget -q https://dl.google.com/android/repository/commandlinetools-linux-9477386_latest.zip -O commandlinetools.zip
-        unzip -q commandlinetools.zip
-        mv cmdline-tools/* $HOME/.buildozer/android/platform/android-sdk/cmdline-tools/latest/ 2>/dev/null || true
-        rm -rf cmdline-tools commandlinetools.zip
-        
-        # Lisansları kabul et ve build-tools / platforms indir
-        yes | $HOME/.buildozer/android/platform/android-sdk/cmdline-tools/latest/bin/sdkmanager --licenses || true
-        $HOME/.buildozer/android/platform/android-sdk/cmdline-tools/latest/bin/sdkmanager "build-tools;33.0.2" "platforms;android-33" "platform-tools"
-
-    - name: Install Buildozer & Cython
-      run: |
-        pip install --upgrade pip
-        pip install "cython<3.0.0" buildozer flet
-
-    - name: Build APK
-      run: |
-        buildozer -v android debug
+        command: buildozer android debug
+        buildozer_version: master
 
     - name: Upload APK
       uses: actions/upload-artifact@v4
       with:
         name: package-apk
-        path: bin/*.apk
+        path: ${{ steps.buildozer.outputs.filename }}

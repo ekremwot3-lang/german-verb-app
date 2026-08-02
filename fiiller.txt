@@ -1,0 +1,800 @@
+1. sein - olmak
+2. haben - sahip olmak
+3. werden - olmak
+4. können - -ebilmek
+5. müssen - zorunda olmak
+6. wollen - istemek
+7. dürfen - izinli olmak
+8. sollen - -meli, -malı
+9. mögen - hoşlanmak
+10. möchten - istemek (rica)
+11. machen - yapmak
+12. tun - yapmak, etmek
+13. gehen - gitmek
+14. kommen - gelmek
+15. fahren - araçla gitmek, sürmek
+16. fliegen - uçmak
+17. laufen - koşmak, yürümek
+18. rennen - koşmak
+19. springen - zıplamak
+20. fallen - düşmek
+21. steigen - çıkmak, binmek
+22. klettern - tırmanmak
+23. schwimmen - yüzmek
+24. tauchen - dalmak
+25. rudern - kürek çekmek
+26. segeln - yelken açmak
+27. wandern - doğa yürüyüşü yapmak
+28. spazieren - gezmek, dolaşmak
+29. reisen - seyahat etmek
+30. bleiben - kalmak
+31. verlassen - terk etmek
+32. abfahren - hareket etmek (araç)
+33. ankommen - varmak
+34. abholen - gidip almak (insan)
+35. mitnehmen - yanında götürmek
+36. mitbringen - yanında getirmek
+37. umsteigen - aktarma yapmak
+38. einsteigen - binmek (araca)
+39. aussteigen - inmek (araçtan)
+40. abfliegen - havalanmak (uçak)
+41. landen - iniş yapmak
+42. nehmen - almak
+43. geben - vermek
+44. bringen - getirmek
+45. holen - gidip almak
+46. tragen - taşımak
+47. halten - tutmak
+48. legen - yatay koymak
+49. stellen - dikey koymak
+50. setzen - oturtmak
+51. hängen - asmak
+52. stehen - ayakta durmak
+53. sitzen - oturmak
+54. liegen - yatmak, uzanmak
+55. stecken - bulunmak, sıkışmak
+56. öffnen - açmak
+57. schließen - kapatmak
+58. zumachen - kapatmak
+59. aufmachen - açmak
+60. drücken - itmek, basmak
+61. ziehen - çekmek
+62. schieben - itmek
+63. werfen - atmak
+64. fangen - yakalamak
+65. drehen - döndürmek
+66. wenden - çevirmek
+67. bewegen - hareket ettirmek
+68. schlagen - vurmak
+69. treten - tekmelemek, basmak
+70. stoßen - itmek, çarpmak
+71. beißen - ısırmak
+72. kratzen - tırmalamak
+73. küssen - öpmek
+74. umarmen - sarılmak
+75. berühren - dokunmak
+76. fühlen - hissetmek
+77. streicheln - okşamak
+78. drücken - sarılmak, sıkmak
+79. schütteln - sallamak
+80. schwenken - sallamak, savurmak
+81. heben - kaldırmak
+82. senken - indirmek, alçaltmak
+83. bücken - eğilmek
+84. beugen - bükmek, eğmek
+85. strecken - uzatmak, germek
+86. dehnen - esnetmek
+87. rollen - yuvarlamak, yuvarlanmak
+88. rutschen - kaymak
+89. gleiten - süzülmek, kaymak
+90. stolpern - tökezlemek
+91. stürzen - düşmek, devrilmek
+92. kippen - devirmek, yatırmak
+93. lehnen - yaslamak, dayamak
+94. stützen - desteklemek
+95. festhalten - sıkıca tutmak
+96. loslassen - bırakmak, salıvermek
+97. packen - paketlemek, yakalamak
+98. auspacken - paketi açmak
+99. einpacken - paketlemek
+100. verpacken - ambalajlamak
+101. sehen - görmek
+102. gucken - bakmak
+103. schauen - bakmak, seyretmek
+104. hören - duymak
+105. zuhören - dinlemek
+106. riechen - koklamak, kokmak
+107. schmecken - tadına bakmak
+108. essen - yemek
+109. fressen - (hayvan) yemek
+110. trinken - içmek
+111. saufen - (hayvan) içmek
+112. kochen - pişirmek
+113. backen - fırında pişirmek
+114. braten - kızartmak
+115. grillen - ızgara yapmak
+116. schneiden - kesmek
+117. schälen - soymak
+118. rühren - karıştırmak
+119. mischen - karıştırmak
+120. wiegen - tartmak
+121. probieren - denemek, tatmak
+122. kosten - tatmak, mal olmak
+123. bestellen - sipariş vermek
+124. bezahlen - ödemek
+125. kaufen - satın almak
+126. verkaufen - satmak
+127. einkaufen - alışveriş yapmak
+128. ausgeben - harcamak
+129. sparen - tasarruf etmek
+130. verdienen - kazanmak, hak etmek
+131. leihen - ödünç almak/vermek
+132. borgen - ödünç almak/vermek
+133. schenken - hediye etmek
+134. bekommen - almak, elde etmek
+135. erhalten - almak, elde etmek
+136. kriegen - almak (konuşma dili)
+137. annehmen - kabul etmek
+138. ablehnen - reddetmek
+139. verweigern - reddetmek
+140. wählen - seçmek
+141. entscheiden - karar vermek
+142. bestimmen - belirlemek
+143. planen - planlamak
+144. vorhaben - planlamak, niyetlenmek
+145. überlegen - düşünmek, tartmak
+146. nachdenken - düşünmek, kafa yormak
+147. glauben - inanmak, sanmak
+148. meinen - fikrinde olmak, demek
+149. denken - düşünmek
+150. wissen - bilmek
+151. kennen - tanımak
+152. erkennen - tanımak, fark etmek
+153. verstehen - anlamak
+154. begreifen - kavramak, anlamak
+155. kapieren - anlamak (konuşma dili)
+156. lernen - öğrenmek
+157. studieren - üniversitede okumak, incelemek
+158. üben - alıştırma yapmak
+159. wiederholen - tekrarlamak
+160. erklären - açıklamak
+161. beschreiben - tarif etmek, betimlemek
+162. definieren - tanımlamak
+163. bedeuten - anlamına gelmek
+164. übersetzen - tercüme etmek
+165. dolmetschen - sözlü tercüme yapmak
+166. sagen - söylemek
+167. sprechen - konuşmak
+168. reden - konuşmak
+169. erzählen - anlatmak
+170. berichten - haber vermek, bildirmek
+171. mitteilen - bildirmek, haber vermek
+172. fragen - sormak
+173. antworten - cevap vermek
+174. entgegnen - karşılık vermek
+175. erwidern - cevap vermek, karşılık vermek
+176. bitten - rica etmek
+177. verlangen - talep etmek
+178. fordern - talep etmek, istemek
+179. wünschen - dilemek, arzu etmek
+180. hoffen - umut etmek
+181. träumen - rüya görmek, hayal etmek
+182. vorstellen - tanıtmak, hayal etmek
+183. empfehlen - tavsiye etmek
+184. raten - tavsiye etmek, tahmin etmek
+185. vorschlagen - önermek
+186. zustimmen - onaylamak, katılmak
+187. widersprechen - karşı çıkmak
+188. streiten - tartışmak, kavga etmek
+189. diskutieren - tartışmak
+190. verhandeln - müzakere etmek
+191. vereinbaren - kararlaştırmak, anlaşmak
+192. versprechen - söz vermek
+193. schwören - yemin etmek
+194. lügen - yalan söylemek
+195. schwindeln - yalan söylemek, başını döndürmek
+196. täuschen - aldatmak, yanıltmak
+197. betrügen - dolandırmak, aldatmak
+198. verraten - ihanet etmek, sırrı açıklamak
+199. drohen - tehdit etmek
+200. warnen - uyarmak
+201. loben - övmek
+202. kritisieren - eleştirmek
+203. beschweren - şikayet etmek
+204. jammern - sızlanmak, yakınmak
+205. klagen - şikayet etmek, dava açmak
+206. weinen - ağlamak
+207. lachen - gülmek
+208. lächeln - gülümsemek
+209. grinsen - sırıtmak
+210. seufzen - iç çekmek
+211. stöhnen - inlemek
+212. schreien - bağırmak
+213. rufen - seslenmek, çağırmak
+214. flüstern - fısıldamak
+215. schweigen - susmak
+216. verstummen - susmak, sessizleşmek
+217. anfangen - başlamak
+218. beginnen - başlamak
+219. starten - başlatmak, kalkmak
+220. aufhören - durmak, sona ermek
+221. beenden - bitirmek
+222. enden - bitmek, sona ermek
+223. schließen - kapatmak, bitirmek
+224. abbrechen - yarıda kesmek, koparmak
+225. unterbrechen - sözünü kesmek, ara vermek
+226. fortsetzen - devam ettirmek
+227. weitermachen - devam etmek
+228. dauern - sürmek
+229. währen - sürmek, devam etmek
+230. verbringen - vakit geçirmek
+231. vergehen - geçmek (zaman)
+232. verstreichen - geçmek (zaman, süre)
+233. warten - beklemek
+234. erwarten - beklemek, ummak
+235. abwarten - bekleyip görmek
+236. verspäten - gecikmek
+237. eilen - acele etmek
+238. beeilen - acele etmek
+239. hetzen - koşuşturmak, acele ettirmek
+240. bremsen - fren yapmak
+241. anhalten - durdurmak, duraklamak
+242. stoppen - durdurmak
+243. parken - park etmek
+244. einparken - park etmek (araya)
+245. tanken - benzin almak, yakıt doldurmak
+246. reparieren - tamir etmek
+247. bauen - inşa etmek, yapmak
+248. aufbauen - kurmak, inşa etmek
+249. abbauen - sökmek, azaltmak
+250. zerstören - yok etmek, tahrip etmek
+251. beschädigen - hasar vermek
+252. kaputtmachen - bozmak, kırmak
+253. reparieren - tamir etmek
+254. funktionieren - çalışmak, işlemek
+255. klappen - yolunda gitmek, becermek
+256. gelingen - başarmak, başarılı olmak
+257. schaffen - başarmak, yapabilmek
+258. scheitern - başarısız olmak
+259. misslingen - başarısız olmak
+260. versagen - başarısız olmak, iflas etmek
+261. gewinnen - kazanmak
+262. verlieren - kaybetmek
+263. siegen - zafer kazanmak, yenmek
+264. besiegen - yenmek, mağlup etmek
+265. kämpfen - savaşmak, mücadele etmek
+266. aufgeben - pes etmek, vazgeçmek
+267. verzichten - vazgeçmek, feragat etmek
+268. resignieren - teslim olmak, boyun eğmek
+269. ertragen - katlanmak, dayanmak
+270. aushalten - dayanmak, katlanmak
+271. dulden - hoş görmek, tahammül etmek
+272. leiden - acı çekmek, katlanmak
+273. sterben - ölmek
+274. töten - öldürmek
+275. umbringen - öldürmek
+276. ermorden - cinayet işlemek
+277. retten - kurtarmak
+278. befreien - özgürleştirmek, kurtarmak
+279. schützen - korumak
+280. verteidigen - savunmak
+281. bewachen - korumak, göz kulak olmak
+282. passieren - olmak, meydana gelmek
+283. geschehen - olmak, meydana gelmek
+284. stattfinden - gerçekleşmek, yapılmak
+285. ereignen - meydana gelmek, vuku bulmak
+286. auftreten - ortaya çıkmak, sahneye çıkmak
+287. erscheinen - görünmek, yayınlanmak
+288. verschwinden - kaybolmak, yok olmak
+289. auftauchen - ortaya çıkmak, belirmek
+290. entstehen - oluşmak, meydana gelmek
+291. entwickeln - geliştirmek, gelişmek
+292. verändern - değiştirmek, değişmek
+293. ändern - değiştirmek
+294. wechseln - değiştirmek, değiş tokuş etmek
+295. tauschen - değiş tokuş etmek, takas etmek
+296. ersetzen - yerine koymak, değiştirmek
+297. verbessern - iyileştirmek, düzeltmek
+298. verschlechtern - kötüleştirmek
+299. verschlimmern - kötüleştirmek, ağırlaştırmak
+300. erneuern - yenilemek
+301. wachsen - büyümek, yetişmek
+302. schrumpfen - küçülmek, büzülmek
+303. zunehmen - artmak, kilo almak
+304. abnehmen - azalmak, kilo vermek
+305. steigen - yükselmek, artmak
+306. sinken - batmak, düşmek, azalmak
+307. erhöhen - yükseltmek, artırmak
+308. senken - düşürmek, indirmek
+309. reduzieren - azaltmak
+310. erweitern - genişletmek
+311. verkleinern - küçültmek
+312. vergrößern - büyütmek
+313. verlängern - uzatmak
+314. verkürzen - kısaltmak
+315. vertiefen - derinleştirmek
+316. verstärken - güçlendirmek
+317. schwächen - zayıflatmak
+318. verbessern - iyileştirmek, düzeltmek
+319. verschlimmern - kötüleştirmek
+320. heilen - iyileştirmek, iyileşmek
+321. verletzen - yaralamak
+322. verwunden - yaralamak
+323. bluten - kanamak
+324. schmerzen - ağrımak, acımak
+325. wehtun - acıtmak, ağrıtmak
+326. krankmachen - hasta etmek
+327. erkranken - hastalanmak
+328. erkälten - üşütmek, soğuk almak
+329. husten - öksürmek
+330. niesen - hapşırmak
+331. schnupfen - burun çekmek, nezle olmak
+332. fiebern - ateşlenmek
+333. impfen - aşı yapmak
+334. untersuchen - muayene etmek, incelemek
+335. behandeln - tedavi etmek, ele almak
+336. operieren - ameliyat etmek
+337. pflegen - bakmak, ilgilenmek
+338. ernähren - beslemek
+339. füttern - yemek yedirmek, beslemek
+340. stillen - emzirmek, dindirmek
+341. schlucken - yutmak
+342. kauen - çiğnemek
+343. verdauen - sindirmek
+344. ausscheiden - dışarı atmak, elemek
+345. atmen - nefes almak
+346. einatmen - nefes almak
+347. ausatmen - nefes vermek
+348. gähnen - esnemek
+349. schlafen - uyumak
+350. einschlafen - uykuya dalmak
+351. aufwachen - uyanmak
+352. wecken - uyandırmak
+353. aufstehen - kalkmak (yataktan)
+354. hinlegen - yatırmak, uzanmak
+355. ausruhen - dinlenmek
+356. entspannen - rahatlamak, gevşemek
+357. erholen - dinlenmek, iyileşmek
+358. träumen - rüya görmek
+359. wachen - uyanık olmak, nöbet tutmak
+360. träumen - hayal etmek, düşlemek
+361. leben - yaşamak
+362. überleben - hayatta kalmak
+363. wohnen - ikamet etmek, oturmak
+364. leben - yaşamak (bir yerde)
+365. umziehen - taşınmak
+366. einziehen - taşınmak (içeri)
+367. ausziehen - taşınmak (dışarı), soyunmak
+368. mieten - kiralamak
+369. vermieten - kiraya vermek
+370. besitzen - sahip olmak
+371. gehören - ait olmak
+372. teilen - paylaşmak, bölmek
+373. verteilen - dağıtmak
+374. sammeln - toplamak, biriktirmek
+375. anhäufen - yığmak, biriktirmek
+376. sortieren - sıralamak, tasnif etmek
+377. ordnen - düzenlemek, sıraya koymak
+378. aufräumen - toplamak, düzeltmek
+379. putzen - temizlemek
+380. saubermachen - temizlemek
+381. reinigen - temizlemek, arındırmak
+382. schmutzig - kirletmek
+383. verschmutzen - kirletmek, pisletmek
+384. waschen - yıkamak
+385. abwaschen - bulaşık yıkamak
+386. spülen - durulamak, bulaşık yıkamak
+387. trocknen - kurutmak, kurumak
+388. abtrocknen - kurulamak
+389. bügeln - ütülemek
+390. falten - katlamak
+391. aufhängen - asmak (çamaşır vs.)
+392. abhängen - indirmek, asılı şeyi almak
+393. kehren - süpürmek
+394. fegen - süpürmek
+395. wischen - silmek
+396. abwischen - silmek, temizlemek
+397. staubsaugen - elektrikli süpürgeyle temizlemek
+398. lüften - havalandırmak
+399. heizen - ısıtmak (kalorifer vs.)
+400. kühlen - soğutmak
+401. arbeiten - çalışmak
+402. jobben - part-time çalışmak
+403. schuften - çok çalışmak, didinmek
+404. dienen - hizmet etmek
+405. bedienen - servis yapmak, hizmet etmek
+406. helfen - yardım etmek
+407. unterstützen - desteklemek
+408. fördern - teşvik etmek, desteklemek
+409. leiten - yönetmek, liderlik etmek
+410. führen - yönetmek, götürmek
+411. organisieren - organize etmek
+412. verwalten - yönetmek, idare etmek
+413. kontrollieren - kontrol etmek
+414. prüfen - kontrol etmek, sınamak
+415. testen - test etmek
+416. untersuchen - araştırmak, incelemek
+417. forschen - araştırmak
+418. entdecken - keşfetmek
+419. erfinden - icat etmek
+420. entwickeln - geliştirmek
+421. konstruieren - inşa etmek, tasarlamak
+422. entwerfen - tasarlamak
+423. gestalten - şekillendirmek, tasarlamak
+424. designen - dizayn etmek
+425. zeichnen - çizmek
+426. malen - resim yapmak, boyamak
+427. skizzieren - eskiz çizmek
+428. schreiben - yazmak
+429. tippen - klavyede yazmak
+430. notieren - not almak
+431. aufschreiben - yazmak, not etmek
+432. abschreiben - kopya çekmek, silmek (yazıyı)
+433. lesen - okumak
+434. vorlesen - sesli okumak
+435. durchlesen - baştan sona okumak
+436. blättern - sayfa çevirmek
+437. drucken - basmak (matbaa)
+438. ausdrucken - yazdırmak (bilgisayardan)
+439. kopieren - kopyalamak
+440. einscannen - taramak (scanner)
+441. faxen - faks çekmek
+442. mailen - mail atmak
+443. simsen - SMS atmak
+444. anrufen - telefonla aramak
+445. telefonieren - telefon görüşmesi yapmak
+446. klingeln - zil çalmak, telefon çalmak
+447. wählen - numara çevirmek, seçmek
+448. verbinden - bağlamak, birleştirmek
+449. trennen - ayırmak
+450. durchstellen - aktarmak (telefon)
+451. hinterlassen - bırakmak (mesaj vs.)
+452. nachricht - mesaj bırakmak
+453. benachrichtigen - haber vermek, bilgilendirmek
+454. informieren - bilgilendirmek
+455. melden - bildirmek, haber vermek
+456. anmelden - kaydolmak, giriş yapmak
+457. abmelden - kaydını sildirmek, çıkış yapmak
+458. registrieren - kaydetmek
+459. eintragen - kaydetmek, yazmak
+460. austragen - dağıtmak, silmek (listedən)
+461. ausfüllen - doldurmak (form vs.)
+462. unterschreiben - imzalamak
+463. unterzeichnen - imzalamak
+464. stempeln - kaşe basmak, damgalamak
+465. beantragen - başvurmak, talep etmek
+466. genehmigen - onaylamak, izin vermek
+467. erlauben - izin vermek
+468. verbieten - yasaklamak
+469. verhindern - engellemek
+470. blockieren - engellemek, bloke etmek
+471. sperren - kapatmak, engellemek
+472. freigeben - serbest bırakmak, yayınlamak
+473. löschen - silmek, söndürmek
+474. entfernen - uzaklaştırmak, kaldırmak
+475. beseitigen - ortadan kaldırmak
+476. vernichten - imha etmek, yok etmek
+477. zerstören - tahrip etmek, yok etmek
+478. sprengen - patlatmak, havaya uçurmak
+479. explodieren - patlamak
+480. brennen - yanmak
+481. anzünden - ateşe vermek, yakmak
+482. löschen - söndürmek
+483. rauchen - sigara içmek, duman çıkarmak
+484. qualmen - duman çıkarmak
+485. dampfen - buhar çıkarmak
+486. verdampfen - buharlaşmak
+487. schmelzen - erimek, eritmek
+488. gefrieren - donmak
+489. einfrieren - dondurmak
+490. auftauen - çözmek, buzunu çözmek
+491. tauen - erimek, çözülmek
+492. kochen - kaynamak, pişirmek
+493. sieden - kaynamak, haşlamak
+494. braten - kızartmak
+495. brutzeln - cızırdamak, kızarmak
+496. backen - pişirmek (fırında)
+497. garen - pişirmek, pişmek
+498. dünsten - buharda pişirmek
+499. dämpfen - buharda pişirmek
+500. schmoren - ağır ateşte pişirmek
+501. anziehen - giyinmek, giydirmek
+502. ausziehen - soyunmak, çıkarmak
+503. umziehen - üstünü değiştirmek, taşınmak
+504. tragen - giymek, taşımak
+505. anprobieren - prova etmek, denemek (kıyafet)
+506. passen - uymak, yakışmak
+507. stehen - yakışmak (kıyafet)
+508. kleiden - giydirmek, yakışmak
+509. schmücken - süslemek
+510. schminken - makyaj yapmak
+511. rasieren - tıraş olmak
+512. kämmen - taramak
+513. bürsten - fırçalamak
+514. föhnen - fön çekmek
+515. frisieren - saç yapmak, kuaförlük
+516. schneiden - kesmek (saç)
+517. färben - boyamak
+518. bleichen - ağartmak, rengini açmak
+519. nähen - dikmek
+520. stricken - örmek (şişle)
+521. häkeln - tığ ile örmek
+522. sticken - nakış işlemek
+523. weben - dokumak
+524. flechten - örmek (saç, sepet)
+525. knüpfen - düğümlemek, bağlamak
+526. binden - bağlamak
+527. knoten - düğüm atmak
+528. schnüren - bağlamak (ayakkabı vs.)
+529. zubinden - bağlamak, düğümlemek
+530. aufbinden - çözmek, bağını açmak
+531. lösen - çözmek
+532. entwirren - dolaşıklığı açmak
+533. verwickeln - dolaştırmak, karıştırmak
+534. ordnen - düzenlemek
+535. sortieren - sıralamak, ayırmak
+536. trennen - ayırmak
+537. teilen - bölmek, paylaşmak
+538. zerteilen - parçalara ayırmak
+539. zerkleinern - küçük parçalara ayırmak
+540. hacken - doğramak, kıymak
+541. würfeln - küp küp doğramak
+542. raspeln - rendelemek
+543. reiben - rendelemek, ovmak
+544. mahlen - öğütmek
+545. zerdrücken - ezmek
+546. pürieren - püre yapmak
+547. stampfen - ezmek (patates vs.)
+548. pressen - preslemek, sıkmak
+549. auspressen - sıkmak (limon vs.)
+550. filtern - filtrelemek, süzmek
+551. sieben - elemek
+552. gießen - dökmek, sulamak
+553. schütten - dökmek, boşaltmak
+554. füllen - doldurmak
+555. befüllen - içini doldurmak
+556. leeren - boşaltmak
+557. ausleeren - tamamen boşaltmak
+558. umfüllen - başka kaba aktarmak
+559. einschenken - kadeh doldurmak, içki koymak
+560. nachschenken - tekrar doldurmak
+561. schöpfen - kepçeyle almak, doldurmak
+562. löffeln - kaşıkla yemek
+563. gabeln - çatalla yemek
+564. schlürfen - höpürdeterek içmek
+565. nippen - yudumlamak
+566. schlucken - yutmak
+567. verschlucken - yanlış yutmak, boğazına kaçırmak
+568. ersticken - boğulmak
+569. würgen - boğazını sıkmak, öğürmek
+570. husten - öksürmek
+571. niesen - hapşırmak
+572. gähnen - esnemek
+573. rülpsen - geğirmek
+574. pupsen - osurmak
+575. stinken - kokmak (kötü)
+576. duften - güzel kokmak
+577. riechen - koklamak, kokmak
+578. schnuppern - koklamak, burnunu çekmek
+579. schnüffeln - burnunu çekmek, koklamak
+580. spüren - hissetmek, sezmek
+581. wahrnehmen - algılamak, fark etmek
+582. bemerken - fark etmek
+583. merken - fark etmek, aklında tutmak
+584. beobachten - gözlemlemek
+585. betrachten - seyretmek, incelemek
+586. mustern - süzmek, incelemek
+587. anstarren - dik dik bakmak
+588. blinzeln - göz kırpmak
+589. zwinkern - göz kırpmak
+590. starren - dik dik bakmak
+591. glotzen - aptal aptal bakmak
+592. blicken - bakmak
+593. erblicken - görmek, fark etmek
+594. sichten - görmek, tespit etmek
+595. entdecken - keşfetmek
+596. übersehen - gözden kaçırmak
+597. ignorieren - görmezden gelmek
+598. beachten - dikkate almak
+599. achten - dikkat etmek, saygı duymak
+600. respektieren - saygı duymak
+601. lieben - sevmek, aşık olmak
+602. hassen - nefret etmek
+603. verabscheuen - iğrenmek, tiksinmek
+604. ekeln - iğrendirmek, tiksinmek
+605. bewundern - hayran olmak
+606. verehren - tapmak, çok sevmek
+607. schätzen - takdir etmek, değer vermek
+608. achten - saygı duymak
+609. respektieren - saygı göstermek
+610. vertrauen - güvenmek
+611. misstrauen - güvenmemek
+612. zweifeln - şüphe etmek
+613. vermuten - tahmin etmek, sanmak
+614. ahnen - tahmin etmek, sezmek
+615. erwarten - beklemek, ummak
+616. befürchten - korkmak, endişe etmek
+617. fürchten - korkmak
+618. ängstigen - korkutmak, endişelendirmek
+619. erschrecken - korkutmak, korkmak
+620. entsetzen - dehşete düşürmek
+621. gruseln - ürpermek, tüyleri diken diken olmak
+622. schaudern - ürpermek, titremek
+623. zittern - titremek
+624. beben - titremek, sarsılmak
+625. wackeln - sallanmak, titremek
+626. wanken - sendelemek, tereddüt etmek
+627. schwanken - sallanmak, kararsız kalmak
+628. zögern - tereddüt etmek
+629. zaudern - duraksamak, tereddüt etmek
+630. überraschen - şaşırtmak
+631. wundern - şaşırmak, hayret etmek
+632. staunen - şaşmak, hayran kalmak
+633. verblüffen - şaşırtmak, afallatmak
+634. irritieren - şaşırtmak, sinirlendirmek
+635. verwirren - kafasını karıştırmak
+636. langweilen - sıkmak, canını sıkmak
+637. nerven - sinir etmek
+638. ärgern - kızdırmak, sinirlendirmek
+639. reizen - tahriş etmek, kışkırtmak
+640. provozieren - kışkırtmak
+641. beleidigen - hakaret etmek
+642. kränken - incitmek, gücendirmek
+643. verletzen - incitmek, yaralamak
+644. demütigen - aşağılamak
+645. erniedrigen - alçaltmak, küçük düşürmek
+646. mobben - zorbalık yapmak, psikolojik baskı
+647. schikanieren - eziyet etmek, zorluk çıkarmak
+648. quälen - eziyet etmek, işkence yapmak
+649. foltern - işkence etmek
+650. peinigen - acı çektirmek, eziyet etmek
+651. trösten - teselli etmek
+652. beruhigen - sakinleştirmek
+653. besänftigen - yatıştırmak
+654. beschwichtigen - yatıştırmak
+655. schlichten - arabuluculuk yapmak, yatıştırmak
+656. vermitteln - ara bulmak, aracılık etmek
+657. schaffen - başarmak, yapabilmek
+658. erreichen - ulaşmak, başarmak
+659. erzielen - elde etmek, ulaşmak
+660. verwirklichen - gerçekleştirmek
+661. realisieren - gerçekleştirmek, fark etmek
+662. umsetzen - uygulamak, gerçekleştirmek
+663. durchführen - uygulamak, yürütmek
+664. ausführen - gerçekleştirmek, ihraç etmek
+665. vollenden - tamamlamak, bitirmek
+666. abschließen - tamamlamak, kilitlemek
+667. beenden - sonlandırmak
+668. aufhören - durmak, sona ermek
+669. pausieren - ara vermek, mola vermek
+670. stocken - duraklamak, takılmak
+671. innehalten - duraklamak, durup düşünmek
+672. verharren - bir süre kalmak, duraklamak
+673. weitermachen - devam etmek
+674. fortfahren - devam etmek
+675. fortsetzen - sürdürmek
+676. verlängern - uzatmak
+677. verlaufen - geçmek, gitmek (olay)
+678. ablaufen - geçmek (süre), cereyan etmek
+679. verfallen - sona ermek, çürümek
+680. ablaufen - süresi dolmak
+681. verjähren - zaman aşımına uğramak
+682. erneuern - yenilemek
+683. auffrischen - tazelemek
+684. aktualisieren - güncellemek
+685. modernisieren - modernleştirmek
+686. renovieren - yenilemek, tamir etmek
+687. sanieren - yenilemek, iyileştirmek
+688. restaurieren - restore etmek
+689. reparieren - tamir etmek
+690. instandsetzen - onarmak, tamir etmek
+691. warten - bakım yapmak
+692. pflegen - bakımını yapmak, ilgilenmek
+693. instandhalten - bakımını yapmak, korumak
+694. konservieren - korumak, muhafaza etmek
+695. lagern - depolamak, saklamak
+696. aufbewahren - saklamak, muhafaza etmek
+697. verstauen - istiflemek, yerleştirmek
+698. einlagern - depoya koymak
+699. auslagern - depodan çıkarmak
+700. horten - istiflemek, biriktirmek
+701. anbieten - teklif etmek, sunmak
+702. bieten - sunmak, teklif etmek
+703. anfordern - talep etmek, istemek
+704. bestellen - sipariş vermek
+705. buchen - rezervasyon yapmak
+706. reservieren - rezerve etmek
+707. vorbestellen - ön sipariş vermek
+708. stornieren - iptal etmek (rezervasyon)
+709. absagen - iptal etmek, reddetmek
+710. zusagen - kabul etmek, söz vermek
+711. bestätigen - onaylamak, teyit etmek
+712. widerrufen - geri almak, iptal etmek
+713. zurücknehmen - geri almak
+714. umtauschen - değiştirmek (ürün)
+715. reklamieren - şikayette bulunmak, iade talep
+716. beanstanden - itiraz etmek, şikayet etmek
+717. bemängeln - kusur bulmak, eleştirmek
+718. kündigen - feshetmek, istifa etmek
+719. entlassen - işten çıkarmak
+720. feuern - kovmak (konuşma dili)
+721. einstellen - işe almak
+722. anstellen - işe almak, çalıştırmak
+723. bewerben - başvurmak (iş)
+724. vorstellen - tanıtmak, kendini tanıtmak
+725. empfehlen - tavsiye etmek
+726. vermitteln - aracılık etmek, bulmak
+727. suchen - aramak
+728. finden - bulmak
+729. entdecken - keşfetmek
+730. aufspüren - izini bulmak
+731. verfolgen - takip etmek
+732. beobachten - gözlemlemek
+733. überwachen - izlemek, denetlemek
+734. kontrollieren - kontrol etmek
+735. prüfen - kontrol etmek, sınamak
+736. testen - test etmek
+737. überprüfen - kontrol etmek, denetlemek
+738. nachprüfen - tekrar kontrol etmek
+739. durchsuchen - aramak, araştırmak
+740. absuchen - taramak, aramak
+741. durchstöbern - karıştırarak aramak
+742. wühlen - eşelemek, karıştırmak
+743. graben - kazmak
+744. buddeln - kazmak (konuşma dili)
+745. ausgraben - kazıp çıkarmak
+746. eingraben - gömmek
+747. vergraben - gömmek, saklamak
+748. begraben - defnetmek, gömmek
+749. beerdigen - cenaze töreni yapmak
+750. bestatten - defnetmek
+751. trauern - yas tutmak
+752. beweinen - ağlayarak yas tutmak
+753. vermissen - özlemek
+754. sehnen - özlem duymak
+755. ersehnen - arzulamak, özlemle beklemek
+756. begehren - arzulamak, istemek
+757. verlangen - talep etmek, arzulamak
+758. gönnen - çok görmemek, hak görmek
+759. neiden - kıskanmak, çekememek
+760. beneiden - kıskanmak, gıpta etmek
+761. eifersüchtig - kıskançlık duymak
+762. konkurrieren - rekabet etmek
+763. wetteifern - yarışmak, rekabet etmek
+764. messen - ölçmek, kıyaslamak
+765. vergleichen - karşılaştırmak
+766. unterscheiden - ayırt etmek
+767. differenzieren - ayırt etmek, farklılaştırmak
+768. gleichen - benzemek
+769. ähneln - benzemek
+770. entsprechen - karşılık gelmek, uymak
+771. abweichen - sapmak, farklı olmak
+772. übereinstimmen - aynı fikirde olmak, uyuşmak
+773. harmonieren - uyumlu olmak
+774. passen - uymak, yakışmak
+775. zusammenpassen - birbirine uymak
+776. ergänzen - tamamlamak, bütünlemek
+777. vervollständigen - tamamlamak
+778. fehlen - eksik olmak, yok olmak
+779. mangeln - eksik olmak, noksan olmak
+780. entbehren - yoksun olmak
+781. verzichten - vazgeçmek, feragat etmek
+782. aufgeben - pes etmek, terk etmek
+783. kapitulieren - teslim olmak
+784. nachgeben - boyun eğmek, pes etmek
+785. einlenken - yumuşamak, taviz vermek
+786. kompromiss - uzlaşmak
+787. einigen - anlaşmak, birleşmek
+788. verständigen - anlaşmak, haber vermek
+789. absprechen - kararlaştırmak, anlaşmak
+790. kooperieren - işbirliği yapmak
+791. zusammenarbeiten - birlikte çalışmak
+792. helfen - yardım etmek
+793. unterstützen - desteklemek
+794. beistehen - yanında olmak, destek olmak
+795. fördern - teşvik etmek, ilerletmek
+796. behindern - engellemek
+797. blockieren - engellemek, bloke etmek
+798. aufhalten - durdurmak, oyalamak
+799. hindern - engel olmak
+800. verhindern - önlemek, engel olmak

@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
 
     steps:
     - name: Checkout repository
@@ -21,7 +21,10 @@ jobs:
     - name: Install System Dependencies
       run: |
         sudo apt-get update
-        sudo apt-get install -y build-essential libltdl-dev libffi-dev libssl-dev python3-dev zip unzip openjdk-17-jdk autoconf libtool pkg-config zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake lib32stdc++6 lib32z1 libc6-dev-i386
+        sudo apt-get install -y \
+          build-essential ccache git python3-pip libffi-dev libssl-dev \
+          openjdk-17-jdk zip unzip tar autoconf libtool pkg-config \
+          zlib1g-dev libncurses6 libncursesw6 cmake libstdc++6
 
     - name: Install Python Libraries
       run: |

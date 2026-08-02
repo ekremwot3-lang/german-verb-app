@@ -18,14 +18,25 @@ jobs:
       with:
         python-version: '3.10'
 
-    - name: Install System & Android Dependencies
+    - name: Install Java & System Dependencies
       run: |
         sudo apt-get update
         sudo apt-get install -y \
           build-essential ccache git python3-pip libffi-dev libssl-dev \
           openjdk-17-jdk zip unzip tar autoconf libtool pkg-config \
-          zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake \
-          lib32stdc++6 lib32z1 libc6-dev-i386
+          zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake
+
+    - name: Setup Android SDK manually
+      run: |
+        mkdir -p $HOME/.buildozer/android/platform/android-sdk/cmdline-tools/latest
+        wget -q https://dl.google.com/android/repository/commandlinetools-linux-9477386_latest.zip -O commandlinetools.zip
+        unzip -q commandlinetools.zip
+        mv cmdline-tools/* $HOME/.buildozer/android/platform/android-sdk/cmdline-tools/latest/ 2>/dev/null || true
+        rm -rf cmdline-tools commandlinetools.zip
+        
+        # Lisansları kabul et ve build-tools / platforms indir
+        yes | $HOME/.buildozer/android/platform/android-sdk/cmdline-tools/latest/bin/sdkmanager --licenses || true
+        $HOME/.buildozer/android/platform/android-sdk/cmdline-tools/latest/bin/sdkmanager "build-tools;33.0.2" "platforms;android-33" "platform-tools"
 
     - name: Install Buildozer & Cython
       run: |
